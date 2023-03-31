@@ -1,6 +1,6 @@
 ---
 name: Engineering Proposal
-about: Propose and engineering feature or tech debt problem/solution
+about: Propose an engineering feature or tech debt problem/solution
 title: ''
 labels: 'proposal'
 assignees: ''
