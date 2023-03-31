@@ -1,6 +1,6 @@
 ---
 name: Engineering Proposal
-about: Describe this issue template's purpose here.
+about: Propose and engineering feature or tech debt problem/solution
 title: ''
 labels: 'proposal'
 assignees: ''
